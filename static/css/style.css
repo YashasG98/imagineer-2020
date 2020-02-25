@@ -536,6 +536,7 @@ section {
 
 .breadcrumbs ol li + li::before {
   display: inline-block;
+  font-weight:bold;
   padding-right: 10px;
   color: #6c757d;
   content: "/";
